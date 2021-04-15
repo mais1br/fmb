@@ -82,17 +82,15 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1, Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1, Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1, REDE LIBERDADE
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
-#EXTINF:-1, TV METROPOLITANA (RJ)
+#EXTINF:-1, TV METROPOLITANA
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w936575810.m3u8
 #EXTINF:-1, TV COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
-#EXTINF:-1, TV ESTADO (Top TV)
+#EXTINF:-1, Top TV
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
-#EXTINF:-1, RBI TV
-https://video01.kshost.com.br/luiz68286/luiz68286/chunklist.m3u8
 #EXTINF:-1, Latina SAT
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 #EXTINF:-1, TV MAX
@@ -151,14 +149,12 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 #EXTINF:-1, TV Carioca
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
-#EXTINF:-1, MIX TV
+#EXTINF:-1, MIX
 https://srv5.zcast.com.br/canalmix/canalmix/playlist.m3u8
 #EXTINF:-1, TEEACH TV
 https://srv1.zcast.com.br/talitacristina9102/talitacristina9102/chunklist_w1637668652.m3u8
 #EXTINF:-1, TV Novo Tempo
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
-#EXTINF:-1, MTV
-http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Multishow
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
 #EXTINF:-1, Disney XD
@@ -167,10 +163,6 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 #EXTINF:-1, Disney Channel
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-#EXTINF:-1, Nickelodeon
-http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, NICK JR
-http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Comedy Central
 http://origin-02.nxplay.com.br/CCLB_HD_NXPLAY_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Paramount 
@@ -306,19 +298,15 @@ http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
 #EXTINF:-1, Canal Super 3/33
 https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
 #EXTINF:-1, Caracol
-https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1, GALICIA
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 #EXTINF:-1, Multimedios Costa Rica
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1, Multimedios Monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1, Multivisión Federal
-http://panel.dattalive.com:1935/8250/8250/.m3u8
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1, Mundo Mas 
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1, Net TV (
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.
 #EXTINF:-1, Nex TV
 http://198.1.123.99:1935/live/myStream/chunklist_w295805193.m3u8
 #EXTINF:-1, Panamericana TV
@@ -327,28 +315,20 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:-1, Ready TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-#EXTINF:-1, RPC
-https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1, RT Spain
-https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+http://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1, TELE UNO
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
-#EXTINF:-1, Teleamazonas
-https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1, TELECOSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1, TELEFE
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
-#EXTINF:-1, Telefuturo 23 
-http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1, Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1, TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
 #EXTINF:-1, Telemicro
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
-#EXTINF:-1, TELEMUNDO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
 #EXTINF:-1, TELERED
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1653213454.m3u8
 #EXTINF:-1, TeleSUR Costa Rica
@@ -359,9 +339,9 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1925475212.m3u8
 #EXTINF:-1, TLS HD
 https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
-#EXTINF:-1, TVN Cl
-http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1, TVN Pn
+#EXTINF:-1, TVN
+http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
+#EXTINF:-1, TVN 
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1, UCV
 http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
@@ -371,26 +351,24 @@ http://45.55.127.106/live/unicanal.m3u8
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
 #EXTINF:-1, Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, MMA TV
-https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, PARAVISION
-http://cdn.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
+http://cdn.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/index.m3u8
 #EXTINF:-1, TRECE
-http://cdn.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-audio_20000=144800-video=2100000.m3u8
+http://cdn.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/index.m3u8
 #EXTINF:-1, TELEFUTURO
-http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.
+http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/index.m3u8
 #EXTINF:-1, UNICANAL
-http://cdn.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-audio_20000=144800-video=3000000.m3u8
+http://cdn.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/index.m3u8
 #EXTINF:-1, C9N
-http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=3900000.m3u8
+http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/index.m3u8
 #EXTINF:-1, NOTICIAS PY
-http://cdn.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=3000000.
+http://cdn.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/index.m3u8
 #EXTINF:-1, ABC TV
-http://cdn.cvattv.com.ar:80/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-audio_20000=144800-video=3000000.m3u8
+http://cdn.cvattv.com.ar:80/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/index.m3u8
 #EXTINF:-1, LATELE
-http://cdn.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
+http://cdn.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/index.m3u8
 #EXTINF:-1, SUR TV
-http://cdn.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-audio_20000=144800-video=3000000.m3u8
+http://cdn.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/index.m3u8
 #EXTINF:-1, SNT
 http://echootv.tv:2086/live/brazil2_YpKsE0/ArSlUw0K/154821.ts
 #EXTINF:-1, 13 MAX
@@ -402,46 +380,25 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1, CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1, MULTIVISION SALTA
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1, CANAL 4 JUJUY
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1, CANAL 3 PINAMAR
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1, ENCUENTRO
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
 
-#EXTINF:-1, Canale 5
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
-#EXTINF:-1, 20 Mediaset
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
-#EXTINF:-1, Cine 34
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
-#EXTINF:-1, Focus
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
-#EXTINF:-1, Italia 1
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
-#EXTINF:-1, Italia 2
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
-#EXTINF:-1, La 5
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
-#EXTINF:-1, Top Crime
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+
 #EXTINF:-1, Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1, Rai 1
 http://ott-cdn.ucom.am:80/s29/04.m3u8
 #EXTINF:-1, Rai 3 
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1, Rete 4
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1, Atres Series
 https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Amuse Animation
 https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, Boing Italia
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
-#EXTINF:-1, Cartoonito
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1, DMAX IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 #EXTINF:-1, Euronews
@@ -452,18 +409,12 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1, History Lab
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
-#EXTINF:-1, Iris
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
-#EXTINF:-1, Mediaset Extra
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 #EXTINF:-1, Mondo Kids
 https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, RAI News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1, Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1, RTL 102.5 TV
-https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1, Sky TG24
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXTINF:-1, Spike
@@ -474,8 +425,6 @@ https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1, Supertoons TV
 https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, TGCOM24
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 
 #EXTINF:-1, 6ter
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
@@ -508,13 +457,13 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1, Action Movies
 https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Antenne Reunion
-http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
+http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8
 #EXTINF:-1, Family Movies
 https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Boing
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/index.m3u8
 #EXTINF:-1, Boomerang
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/index.m3u8
 #EXTINF:-1, Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1, Mangas
@@ -528,104 +477,13 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8
 #EXTINF:-1, France 2
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 #EXTINF:-1, Animaux
-http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/04.m3u8
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Animaux_live/index.m3u8
 #EXTINF:-1, NRJ 12
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
-
-#EXTINF:-1, ANT1 
-https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
-#EXTINF:-1, NETMAX TV
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1, Xplore TV
-http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
-#EXTINF:-1, 4E
-http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:-1, Alpha TV
-https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-1, EPT 1
-http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
-#EXTINF:-1, EPT 2
-http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
-#EXTINF:-1, EPT 3
-http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8
-#EXTINF:-1, Greek TV London
-https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
-#EXTINF:-1, Groovy
-http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1, Nea TV
-https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
-#EXTINF:-1, Open TV
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:-1, Star
-https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
-#EXTINF:-1, TV100
-https://live.fm100.gr/hls/tv100/index.m3u8
-#EXTINF:-1, TV Creta
-https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
-#EXTINF:-1, Xalastra
-https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1, Ena Channel
-http://176.9.123.140:1935/1c/stream/master.m3u8
-
-#EXTINF:-1, Star TV
-https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1, ATV
-http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
-#EXTINF:-1, Beyaz TV
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:-1, EuroStar
-https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
-#EXTINF:-1, EURO D
-https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:-1, Kanal D
-https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
-#EXTINF:-1, Kanal 26
-https://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
-#EXTINF:-1, Show TV
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1, TRT 1
-http://tv-trt1.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1, TRT 3
-http://tv-trt3.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1, TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1, TV 52
-https://broadcasttr.com:446/tv52/bant1/chunklist_w846204715.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
-#EXTINF:-1, TVnet
-https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-#EXTINF:-1, Kral Pop
-https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1, Life TV
-https://waw2.artiyerelmedya.net/lifetv/bant1/chunks.m3u8
-#EXTINF:-1, Altas TV
-http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
-
-#EXTINF:-1, МИР
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1, ОТР
-https://uiptv.do.am/1ufc/000000008/playlist.m3u8
-#EXTINF:-1, Первый канал
-http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
-#EXTINF:-1, Россия 1
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
-#EXTINF:-1, 8 Канал
-http://176.99.110.252/stream8/playlist.m3u8
-#EXTINF:-1, 2x2
-http://178.163.98.224:81/udp/234.0.0.244:2000
-#EXTINF:-1, 4 канал
-http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1, A1
-http://ott-cdn.ucom.am/s45/index.m3u8
-#EXTINF:-1, A2
-http://ott-cdn.ucom.am/s33/index.m3u8
-#EXTINF:-1, НТВ
-http://51.195.44.53:8081/tv/ntv/chunks.m3u8
-#EXTINF:-1, РЕН ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1, СТС
-https://sc.id-tv.kz/STS_34_35.m3u8
-#EXTINF:-1, ТНТ
-http://147.135.210.90:8081/tv/tnt/playlist.m3u8
+#EXTINF:-1, France 2
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
+#EXTINF:-1, France 3
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france3live-12472/hls/index.m3u8
 
 #EXTINF:-1, NHK BS Premium
 http://203.162.235.41:16910
@@ -725,18 +583,8 @@ https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1, Sky 2 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1, UFC ESP
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
-#EXTINF:-1, EPT Sports
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1, EPT Sports 2
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
-#EXTINF:-1, EPT Sports 3
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
 #EXTINF:-1, MOTOR TREND
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1, Rai Sport
-https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
 #EXTINF:-1, Motor TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Матч ТВ
@@ -762,32 +610,24 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
 #EXTINF:-1, Otto FM TV
 http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
-#EXTINF:-1, R101
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8
-#EXTINF:-1, Radio 105 TV
-https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
 #EXTINF:-1, Radio Capital TV
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1, Radio Italia TV
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:-1, Radio Monte Carlo TV
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1, Radio Number One
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1, Radio Zeta
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
 #EXTINF:-1, RDS Social TV
-https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+http://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+#EXTINF:-1, RTL 102.5 TV
+http://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1, RTL 102.5 BEST
-https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
+http://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
 #EXTINF:-1, RU.TV
 https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
-#EXTINF:-1, Virgin Radio TV
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 #EXTINF:-1, О2ТВ
 https://strm.yandex.ru/kal/o2/o20.m3u8
-#EXTINF:-1, RTL 2 fr
-https://rtlfr.live.6cloud.fr/out/u/6play/rtl2_c.m3u8
 #EXTINF:-1, VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1, Radio 24
@@ -1284,3 +1124,4 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
+
