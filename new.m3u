@@ -4,6 +4,7 @@
 #EXTINF:-1, Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1, SBT
+http://origin-02.nxplay.com.br/SBT_HD_SIMBA/tracks-v1a1/mono.m3u8
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1, Record
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
@@ -25,6 +26,8 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1, Record News
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+#EXTINF:-1, Globo News
+http://s4.pjtiptv.ga/GLOBONEWS/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
 #EXTINF:-1, CNN Brasil
 http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Rede Minas 
@@ -32,7 +35,7 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 #EXTINF:-1, Rede Aparecida
 http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 #EXTINF:-1, Rede Familia
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1, TV Diario
@@ -93,6 +96,8 @@ https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
 #EXTINF:-1, TV da Cidade SP
 https://cast.cdnseguro.com:19360/8012/8012.m3u8
+#EXTINF:-1, TV Brasil 2
+http://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8
 #EXTINF:-1, 98 LIVE
 http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8
 #EXTINF:-1, Latina SAT
@@ -205,6 +210,48 @@ https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1, SPORT TV 5 PT
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1, Fish TV
+http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Woohoo
+http://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Combate
+http://s4.pjtiptv.ga/COMBATE/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+#EXTINF:-1, SporTV
+http://s4.pjtiptv.ga/SPORTV/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+#EXTINF:-1, SporTV 2
+http://s4.pjtiptv.ga/SPORTV2/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+#EXTINF:-1, SporTV 3
+http://s4.pjtiptv.ga/SPORTV3/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+#EXTINF:-1, Fox Sports
+http://s4.pjtiptv.ga/FOXSPORTS/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+#EXTINF:-1, Fox Sports 2
+http://s4.pjtiptv.ga/FOXSPORTS2/tracks-v1a1/mono.m3u8?token=6elTlNu6C2
+#EXTINF:-1, Zoomoo
+http://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Nickelodeon
+http://cdn-1.nxplay.com.br/NICK_BR_HD_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Nick Jr.
+http://cdn-1.nxplay.com.br/NICK_JR_BR_HD_NXPLAY_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Film&Arts 
+http://cdn-1.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8
+#EXTINF:-1, AMC 
+http://cdn-1.nxplay.com.br/AMC_BRASIL/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TBS
+http://cdn-1.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Comedy Central
+http://origin-02.nxplay.com.br/CCLB_HD_NXPLAY_59/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Arte 1
+http://cdn-1.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MTV 
+http://cdn-1.nxplay.com.br/MTV_BR_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MTV Live
+http://cdn-1.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TV WA
+http://cdn-1.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Music Box Brazil
+http://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Prime Box Brazil
+http://cdn-1.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8
 
 ###Internacional###
 #EXTINF:-1, PBS America
