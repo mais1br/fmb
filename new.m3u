@@ -4,7 +4,7 @@
 #EXTINF:-1, Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1, SBT
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1, Record
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1, Band
@@ -14,19 +14,17 @@ http://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353
 #EXTINF:-1, Cultura
 http://evpp.mm.uol.com.br:1935/cultura1/cultura_720.sdp/playlist.m3u8
 #EXTINF:-1, Gazeta
-http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 #EXTINF:-1, Loading TV
-http://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 #EXTINF:-1, CNT
 http://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 #EXTINF:-1, Rede Brasil
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1, TV Brasil
-https://video-rvd-df-gw-2-1.rnp.br/live/ocp(t(FnK_2KxRFk8)r(fVR9ug)a(vVp7Rg)p(d(2xc)k(q8Y)m(PT3pS9PKXQGXD-HZBwXlkg)n(a(MFPUFQ)s(c5o)'a(VuxPrg)s(CHQ)))s(s(FeM)b(EOXb2ibwnpIVHRSzZOjL3RQoBtBLyxZhjQ1aWpJ6gqoPXAIzGp_7TdToUqinFnGLKNZFfCPu8f6WxSUGCw)'s(xfQ)b(4LssC3U7CmBdtmvL91jt7VbbETw1iJJVFM8PeQUJnsWKvd0otWJn2bbmm0ujlW6ZYjXfvHW5rfOc9TotymyH3EnSYUF5B68jCPIQiScI)'s(lPY)b(RI4rduRA))m(0))/index.m3u8
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1, Record News
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
-#EXTINF:-1, Band News
-http://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
 #EXTINF:-1, CNN Brasil
 http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Rede Minas 
@@ -38,7 +36,7 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1, Rede Familia
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1, TV Diario
-http://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZfhA4tbC-Lnlye5s-RjbNBk)/dm/3/x7txn7q/s/live-2.m3u8
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZduqtrw2xOK-6LklgPKCtII)/dm/3/x7txn7q/s/live-2.m3u8
 #EXTINF:-1, TV União (Rede União)
 https://stmv1.srvif.com/admin/admin/playlist.m3u8
 #EXTINF:-1, Tv Uniao (Natal)
@@ -68,7 +66,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1, TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1, AGRO+
-http://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w1227370496.m3u8
 #EXTINF:-1, Terra Viva
 http://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
 #EXTINF:-1, Canal Rual
@@ -91,8 +89,16 @@ https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:-1, Top TV
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
+#EXTINF:-1, Kiss TV
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
+#EXTINF:-1, TV da Cidade SP
+https://cast.cdnseguro.com:19360/8012/8012.m3u8
+#EXTINF:-1, 98 LIVE
+http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8
 #EXTINF:-1, Latina SAT
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
+#EXTINF:-1, TV SOL
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 #EXTINF:-1, TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 #EXTINF:-1, Classique TV
@@ -123,6 +129,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1, TV Diário do Sertão
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1, AWC CHANNEL
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1, TV Pantanal MS
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:-1, TV Pampa
@@ -201,8 +209,6 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 ###Internacional###
 #EXTINF:-1, PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1, CNN International
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, ABC News
 http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
 #EXTINF:-1, CBC Toronto
@@ -225,16 +231,10 @@ https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 #EXTINF:-1, ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1, Kiss
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-#EXTINF:-1, Magic
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
 #EXTINF:-1, Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1, Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1, Noovo
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1, TVO
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 #EXTINF:-1, CBS News 
@@ -247,9 +247,7 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1, BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1, CNN
-http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
-#EXTINF:-1, CNN Internationa
+#EXTINF:-1, CNN 
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, DW English 
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
@@ -570,6 +568,8 @@ http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/chunklist_w2017323832.m3u8
 #EXTINF:-1, SBS CJB
 https://5ee9be10640ac.streamlock.net/live/cjbtv/chunklist_w2029927091.m3u8
+#EXTINF:-1 group-title="KOREA",SONY ONE
+http://45.126.83.51/uq2663/h/h143/01.m3u8
 
 #EXTINF:-1, MMA TV 1
 https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -644,6 +644,10 @@ https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:-1, Magic TV Romania
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
+#EXTINF:-1, Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1, Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
 
 ### Pluto TV ###
 #EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5ff609de50ab210008025c1b" tvg-name="Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png",Tokusato
@@ -725,403 +729,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 #EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5f997e44949bc70007a6941e" tvg-name="Turma da Mônica" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png",Turma da Mônica
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
  
-### Nacional ###
-#EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
-http://rec2.distv.net:80/daniele/12345/113
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
-http://rec2.distv.net:80/daniele/12345/223
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://distv.net/icons/animalplanet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET
-http://rec2.distv.net:80/daniele/12345/114
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="http://distv.net/icons/arte1.png" group-title="ENTRETENIMENTO",ARTE 1
-http://rec2.distv.net:80/daniele/12345/115
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="FILMES E SERIES",AXN
-http://rec2.distv.net:80/daniele/12345/116
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://distv.net/icons/babytv.png" group-title="KIDS",BABY TV
-http://rec2.distv.net:80/daniele/12345/117
-#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
-http://rec2.distv.net:80/daniele/12345/224
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://distv.net/icons/bandnews.png" group-title="REPORTAGEM",BAND NEWS
-http://rec2.distv.net:80/daniele/12345/118
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="http://distv.net/icons/bandsports.png" group-title="SPORTS",BAND SPORTS
-http://rec2.distv.net:80/daniele/12345/119
-#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa
-http://rec2.distv.net:80/daniele/12345/254
-#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa 2" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa 2
-http://rec2.distv.net:80/daniele/12345/255
-#EXTINF:-1 tvg-id="" tvg-name="BBB Acompanhe a Casa Extra" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Acompanhe a Casa Extra
-http://rec2.distv.net:80/daniele/12345/256
-#EXTINF:-1 tvg-id="" tvg-name="BBB Confessionario" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Confessionario
-http://rec2.distv.net:80/daniele/12345/257
-#EXTINF:-1 tvg-id="" tvg-name="BBB Cozinha Vip Xepa" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Cozinha Vip Xepa
-http://rec2.distv.net:80/daniele/12345/258
-#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Piscina
-http://rec2.distv.net:80/daniele/12345/260
-#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Colorido" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Quarto Colorido
-http://rec2.distv.net:80/daniele/12345/261
-#EXTINF:-1 tvg-id="" tvg-name="BBB Sala de Estar" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB",BBB Sala de Estar
-http://rec2.distv.net:80/daniele/12345/262
-#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://distv.net/icons/bis.png" group-title="ENTRETENIMENTO",BIS
-http://rec2.distv.net:80/daniele/12345/120
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="KIDS",BOOMERANG
-http://rec2.distv.net:80/daniele/12345/121
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="http://distv.net/icons/canalbrasil.png" group-title="ENTRETENIMENTO",CANAL BRASIL
-http://rec2.distv.net:80/daniele/12345/122
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="http://distv.net/icons/sonychannel.png" group-title="FILMES E SERIES",CANAL SONY
-http://rec2.distv.net:80/daniele/12345/123
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="http://distv.net/icons/cancaonovoceara.png" group-title="CANAIS LOCAIS",CANÇÃO NOVA
-http://rec2.distv.net:80/daniele/12345/65
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
-http://rec2.distv.net:80/daniele/12345/124
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 01
-http://rec2.distv.net:80/daniele/12345/48
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 02
-http://rec2.distv.net:80/daniele/12345/49
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 03
-http://rec2.distv.net:80/daniele/12345/50
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 04
-http://rec2.distv.net:80/daniele/12345/51
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 05
-http://rec2.distv.net:80/daniele/12345/52
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 06
-http://rec2.distv.net:80/daniele/12345/53
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 07
-http://rec2.distv.net:80/daniele/12345/54
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 08
-http://rec2.distv.net:80/daniele/12345/55
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 09
-http://rec2.distv.net:80/daniele/12345/56
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 10
-http://rec2.distv.net:80/daniele/12345/57
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX
-http://rec2.distv.net:80/daniele/12345/125
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="REPORTAGEM",CNN BRASIL
-http://rec2.distv.net:80/daniele/12345/225
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="SPORTS",COMBATE
-http://rec2.distv.net:80/daniele/12345/126
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL
-http://rec2.distv.net:80/daniele/12345/127
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="http://distv.net/icons/cultura.png" group-title="ENTRETENIMENTO",CULTURA
-http://rec2.distv.net:80/daniele/12345/128
-#EXTINF:-1 tvg-id="" tvg-name="CURTA" tvg-logo="http://distv.net/icons/curta.png" group-title="ENTRETENIMENTO",CURTA
-http://rec2.distv.net:80/daniele/12345/129
-#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="SPORTS",DAZN
-http://rec2.distv.net:80/daniele/12345/226
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://distv.net/icons/discoverychannel.png" group-title="ENTRETENIMENTO",DISCOVERY CHANNEL
-http://rec2.distv.net:80/daniele/12345/130
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://distv.net/icons/discoveryhomehealth.png" group-title="ENTRETENIMENTO",DISCOVERY HOME & HEALTH
-http://rec2.distv.net:80/daniele/12345/131
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://distv.net/icons/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
-http://rec2.distv.net:80/daniele/12345/132
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://distv.net/icons/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
-http://rec2.distv.net:80/daniele/12345/133
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://distv.net/icons/discoveryscience.png" group-title="ENTRETENIMENTO",DISCOVERY SCIENCE
-http://rec2.distv.net:80/daniele/12345/134
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="http://distv.net/icons/discoverytheater.png" group-title="ENTRETENIMENTO",DISCOVERY THEATER
-http://rec2.distv.net:80/daniele/12345/135
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://distv.net/icons/discoveryturbo.png" group-title="ENTRETENIMENTO",DISCOVERY TURBO
-http://rec2.distv.net:80/daniele/12345/136
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://distv.net/icons/discoveryworld.png" group-title="ENTRETENIMENTO",DISCOVERY WORLD
-http://rec2.distv.net:80/daniele/12345/137
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
-http://rec2.distv.net:80/daniele/12345/138
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KIDS",DISNEY JR
-http://rec2.distv.net:80/daniele/12345/139
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="KIDS",DISNEY XD
-http://rec2.distv.net:80/daniele/12345/140
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://distv.net/icons/e.png" group-title="ENTRETENIMENTO",E!
-http://rec2.distv.net:80/daniele/12345/141
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="SPORTS",ESPN
-http://rec2.distv.net:80/daniele/12345/142
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="SPORTS",ESPN 2
-http://rec2.distv.net:80/daniele/12345/143
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="SPORTS",ESPN BRASIL
-http://rec2.distv.net:80/daniele/12345/144
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="SPORTS",ESPN EXTRA
-http://rec2.distv.net:80/daniele/12345/145
-#EXTINF:-1 tvg-id="" tvg-name="FILMS & ARTS" tvg-logo="http://distv.net/icons/filmeseartes.png" group-title="ENTRETENIMENTO",FILMS & ARTS
-http://rec2.distv.net:80/daniele/12345/227
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="http://distv.net/icons/fishtv.png" group-title="ENTRETENIMENTO",FISH TV
-http://rec2.distv.net:80/daniele/12345/146
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://distv.net/icons/foodnetwork.png" group-title="ENTRETENIMENTO",FOOD NETWORK
-http://rec2.distv.net:80/daniele/12345/147
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://distv.net/icons/foxchannel.png" group-title="FILMES E SERIES",FOX
-http://rec2.distv.net:80/daniele/12345/148
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="FILMES E SERIES",FOX LIFE
-http://rec2.distv.net:80/daniele/12345/149
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="http://distv.net/icons/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1
-http://rec2.distv.net:80/daniele/12345/150
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="http://distv.net/icons/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2
-http://rec2.distv.net:80/daniele/12345/151
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="SPORTS",FOX SPORTS
-http://rec2.distv.net:80/daniele/12345/152
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="SPORTS",FOX SPORTS 2
-http://rec2.distv.net:80/daniele/12345/153
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="http://distv.net/icons/futura.png" group-title="ENTRETENIMENTO",FUTURA
-http://rec2.distv.net:80/daniele/12345/228
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://distv.net/icons/fx.png" group-title="ENTRETENIMENTO",FX
-http://rec2.distv.net:80/daniele/12345/229
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="ENTRETENIMENTO",GAZETA
-http://rec2.distv.net:80/daniele/12345/230
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO
-http://rec2.distv.net:80/daniele/12345/231
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO BRASILIA HD
-http://rec2.distv.net:80/daniele/12345/3
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO FLORIANOPOLIS HD
-http://rec2.distv.net:80/daniele/12345/5
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO MINAS HD
-http://rec2.distv.net:80/daniele/12345/6
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO NATAL HD
-http://rec2.distv.net:80/daniele/12345/7
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://distv.net/icons/globonews.png" group-title="REPORTAGEM",GLOBO NEWS
-http://rec2.distv.net:80/daniele/12345/232
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZÔNICA HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO REDE AMAZÔNICA HD
-http://rec2.distv.net:80/daniele/12345/11
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO RIO HD
-http://rec2.distv.net:80/daniele/12345/13
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO RPC CURITIBA HD
-http://rec2.distv.net:80/daniele/12345/14
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO SP HD
-http://rec2.distv.net:80/daniele/12345/15
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO TV ANHANGUERA GOIANIA HD
-http://rec2.distv.net:80/daniele/12345/16
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO TV BAHIA HD
-http://rec2.distv.net:80/daniele/12345/17
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO TV LIBERAL BELEM HD
-http://rec2.distv.net:80/daniele/12345/18
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE HD (MA)" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO TV MIRANTE HD (MA)
-http://rec2.distv.net:80/daniele/12345/19
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://distv.net/icons/gloob.png" group-title="KIDS",GLOOB
-http://rec2.distv.net:80/daniele/12345/154
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="http://distv.net/icons/gloobinho.png" group-title="KIDS",GLOOBINHO
-http://rec2.distv.net:80/daniele/12345/215
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://distv.net/icons/gnt.png" group-title="ENTRETENIMENTO",GNT
-http://rec2.distv.net:80/daniele/12345/155
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://distv.net/icons/hbo.png" group-title="FILMES E SERIES",HBO
-http://rec2.distv.net:80/daniele/12345/156
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://distv.net/icons/hbo2.png" group-title="FILMES E SERIES",HBO 2
-http://rec2.distv.net:80/daniele/12345/157
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://distv.net/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY
-http://rec2.distv.net:80/daniele/12345/158
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://distv.net/icons/hbomundi.png" group-title="FILMES E SERIES",HBO MUNDI
-http://rec2.distv.net:80/daniele/12345/159
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://distv.net/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS
-http://rec2.distv.net:80/daniele/12345/160
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://distv.net/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP
-http://rec2.distv.net:80/daniele/12345/161
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://distv.net/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE
-http://rec2.distv.net:80/daniele/12345/162
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="FILMES E SERIES",HBO XTREME
-http://rec2.distv.net:80/daniele/12345/163
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://distv.net/icons/hgtv.png" group-title="ENTRETENIMENTO",HGTV
-http://rec2.distv.net:80/daniele/12345/164
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://distv.net/icons/historychannel.png" group-title="ENTRETENIMENTO",HISTORY
-http://rec2.distv.net:80/daniele/12345/165
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="http://distv.net/icons/h2.png" group-title="ENTRETENIMENTO",HISTORY 2
-http://rec2.distv.net:80/daniele/12345/166
-#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="http://distv.net/icons/lifetime.png" group-title="ENTRETENIMENTO",LIFE TIME
-http://rec2.distv.net:80/daniele/12345/167
-#EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="http://distv.net/icons/like.png" group-title="ENTRETENIMENTO",LIKE
-http://rec2.distv.net:80/daniele/12345/233
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://distv.net/icons/maisglobosat.png" group-title="ENTRETENIMENTO",MAIS GLOBOSAT
-http://rec2.distv.net:80/daniele/12345/235
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://distv.net/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX
-http://rec2.distv.net:80/daniele/12345/168
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV
-http://rec2.distv.net:80/daniele/12345/169
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV LIVE
-http://rec2.distv.net:80/daniele/12345/236
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="http://distv.net/icons/multishow.png" group-title="ENTRETENIMENTO",MULTISHOW
-http://rec2.distv.net:80/daniele/12345/170
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="http://distv.net/icons/musicboxbrazil.png" group-title="ENTRETENIMENTO",MUSIC BOX BRAZIL
-http://rec2.distv.net:80/daniele/12345/171
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="http://distv.net/icons/natgeo.png" group-title="ENTRETENIMENTO",NAT GEO
-http://rec2.distv.net:80/daniele/12345/172
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="http://distv.net/icons/natgeokids.png" group-title="KIDS",NAT GEO KIDS
-http://rec2.distv.net:80/daniele/12345/173
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://distv.net/icons/natgeowild.png" group-title="ENTRETENIMENTO",NAT GEO WILD
-http://rec2.distv.net:80/daniele/12345/174
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="http://distv.net/icons/nick.png" group-title="KIDS",NICK
-http://rec2.distv.net:80/daniele/12345/175
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://distv.net/icons/nickjr.png" group-title="KIDS",NICK JR
-http://rec2.distv.net:80/daniele/12345/176
-#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="http://distv.net/icons/off.png" group-title="ENTRETENIMENTO",OFF
-http://rec2.distv.net:80/daniele/12345/177
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://distv.net/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT
-http://rec2.distv.net:80/daniele/12345/178
-#EXTINF:-1 tvg-id="" tvg-name="PLAY KIDS" tvg-logo="http://distv.net/icons/playkids.png" group-title="KIDS",PLAY KIDS
-http://rec2.distv.net:80/daniele/12345/216
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
-http://rec2.distv.net:80/daniele/12345/179
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
-http://rec2.distv.net:80/daniele/12345/180
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="SPORTS",PREMIERE 4
-http://rec2.distv.net:80/daniele/12345/181
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="SPORTS",PREMIERE 5
-http://rec2.distv.net:80/daniele/12345/182
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="SPORTS",PREMIERE 6
-http://rec2.distv.net:80/daniele/12345/183
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="SPORTS",PREMIERE 7
-http://rec2.distv.net:80/daniele/12345/237
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="SPORTS",PREMIERE CLUBES
-http://rec2.distv.net:80/daniele/12345/184
-#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="http://distv.net/icons/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL
-http://rec2.distv.net:80/daniele/12345/185
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD BAHIA 
-http://rec2.distv.net:80/daniele/12345/23
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD BRASILIA 
-http://rec2.distv.net:80/daniele/12345/25
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD GOIAS 
-http://rec2.distv.net:80/daniele/12345/26
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD MANAUS
-http://rec2.distv.net:80/daniele/12345/22
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MG" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD MG
-http://rec2.distv.net:80/daniele/12345/32
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD MINAS 
-http://rec2.distv.net:80/daniele/12345/27
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS " tvg-logo="http://distv.net/icons/recordnews.png" group-title="REPORTAGEM",RECORD NEWS 
-http://rec2.distv.net:80/daniele/12345/28
-#EXTINF:-1 tvg-id="" tvg-name="RECORD PARA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD PARA 
-http://rec2.distv.net:80/daniele/12345/30
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
-http://rec2.distv.net:80/daniele/12345/31
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD SP 
-http://rec2.distv.net:80/daniele/12345/33
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://distv.net/icons/redetv.png" group-title="CANAIS LOCAIS",REDE TV
-http://rec2.distv.net:80/daniele/12345/69
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://distv.net/icons/redevida.png" group-title="ENTRETENIMENTO",REDE VIDA
-http://rec2.distv.net:80/daniele/12345/218
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
-http://rec2.distv.net:80/daniele/12345/238
-#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN" tvg-logo="http://distv.net/icons/smithsonian.png" group-title="ENTRETENIMENTO",SMITHSONIAN
-http://rec2.distv.net:80/daniele/12345/239
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" group-title="FILMES E SERIES",SPACE
-http://rec2.distv.net:80/daniele/12345/187
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="http://distv.net/icons/sportv.png" group-title="SPORTS",SPORTV
-http://rec2.distv.net:80/daniele/12345/188
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" group-title="SPORTS",SPORTV 2
-http://rec2.distv.net:80/daniele/12345/189
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" group-title="SPORTS",SPORTV 3
-http://rec2.distv.net:80/daniele/12345/190
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
-http://rec2.distv.net:80/daniele/12345/191
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://distv.net/icons/syfy.png" group-title="FILMES E SERIES",SYFY
-http://rec2.distv.net:80/daniele/12345/192
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://distv.net/icons/tbs.png" group-title="FILMES E SERIES",TBS
-http://rec2.distv.net:80/daniele/12345/193
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="FILMES E SERIES",TELECINE ACTION
-http://rec2.distv.net:80/daniele/12345/194
-#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://distv.net/icons/tccult.png" group-title="FILMES E SERIES",TELECINE CULT
-http://rec2.distv.net:80/daniele/12345/195
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="FILMES E SERIES",TELECINE FUN
-http://rec2.distv.net:80/daniele/12345/196
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://distv.net/icons/tcpipoca.png" group-title="FILMES E SERIES",TELECINE PIPOCA
-http://rec2.distv.net:80/daniele/12345/197
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="FILMES E SERIES",TELECINE PREMIUM
-http://rec2.distv.net:80/daniele/12345/198
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://distv.net/icons/tctouch.png" group-title="FILMES E SERIES",TELECINE TOUCH
-http://rec2.distv.net:80/daniele/12345/199
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://distv.net/icons/tlc.png" group-title="ENTRETENIMENTO",TLC
-http://rec2.distv.net:80/daniele/12345/200
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="FILMES E SERIES",TNT
-http://rec2.distv.net:80/daniele/12345/201
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
-http://rec2.distv.net:80/daniele/12345/202
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://distv.net/icons/tooncast.png" group-title="KIDS",TOONCAST
-http://rec2.distv.net:80/daniele/12345/203
-#EXTINF:-1 tvg-id="" tvg-name="TRAVELBOX" tvg-logo="http://distv.net/icons/travelboxbrazil.png" group-title="ENTRETENIMENTO",TRAVELBOX
-http://rec2.distv.net:80/daniele/12345/240
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="http://distv.net/icons/tvbrasil.png" group-title="ENTRETENIMENTO",TV BRASIL
-http://rec2.distv.net:80/daniele/12345/241
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE-CARIRI CE" tvg-logo="http://distv.net/icons/tvcidade.png" group-title="CANAIS LOCAIS",TV CIDADE-CARIRI CE
-http://rec2.distv.net:80/daniele/12345/94
-#EXTINF:-1 tvg-id="" tvg-name="TV CLUBE" tvg-logo="http://distv.net/icons/tvclube.png" group-title="CANAIS LOCAIS",TV CLUBE
-http://rec2.distv.net:80/daniele/12345/73
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO-CARIRI CE" tvg-logo="http://distv.net/icons/tvdiario.png" group-title="CANAIS LOCAIS",TV DIARIO-CARIRI CE
-http://rec2.distv.net:80/daniele/12345/95
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="http://distv.net/icons/tvevangelizar.png" group-title="CANAIS LOCAIS",TV EVANGELIZAR
-http://rec2.distv.net:80/daniele/12345/91
-#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO NE" tvg-logo="http://distv.net/icons/globonordeste.png" group-title="CANAIS LOCAIS",TV GLOBO NE
-http://rec2.distv.net:80/daniele/12345/75
-#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL" tvg-logo="http://distv.net/icons/tvjornal.png" group-title="CANAIS LOCAIS",TV JORNAL
-http://rec2.distv.net:80/daniele/12345/76
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://distv.net/icons/novotempo.png" group-title="ENTRETENIMENTO",TV NOVO TEMPO
-http://rec2.distv.net:80/daniele/12345/242
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://distv.net/icons/tvpaieterno.png" group-title="CANAIS LOCAIS",TV PAI ETERNO
-http://rec2.distv.net:80/daniele/12345/103
-#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="http://distv.net/icons/tvratimbum.png" group-title="KIDS",TV RA TIM BUM
-http://rec2.distv.net:80/daniele/12345/204
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA" tvg-logo="http://distv.net/icons/tvtribuna.png" group-title="CANAIS LOCAIS",TV TRIBUNA
-http://rec2.distv.net:80/daniele/12345/77
-#EXTINF:-1 tvg-id="" tvg-name="TV-JANGADEIRO-CE-HD" tvg-logo="http://distv.net/icons/tvjangadeiro.png" group-title="CANAIS LOCAIS",TV-JANGADEIRO-CE-HD
-http://rec2.distv.net:80/daniele/12345/90
-#EXTINF:-1 tvg-id="" tvg-name="TV-UNIAO-CE-HD" tvg-logo="http://distv.net/icons/redeuniao.png" group-title="CANAIS LOCAIS",TV-UNIAO-CE-HD
-http://rec2.distv.net:80/daniele/12345/92
-#EXTINF:-1 tvg-id="" tvg-name="TVM -CE-HD" tvg-logo="http://distv.net/icons/tvm.png" group-title="CANAIS LOCAIS",TVM -CE-HD
-http://rec2.distv.net:80/daniele/12345/93
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL TV
-http://rec2.distv.net:80/daniele/12345/205
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://distv.net/icons/vh1megahits.png" group-title="ENTRETENIMENTO",VH1
-http://rec2.distv.net:80/daniele/12345/206
-#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="http://distv.net/icons/viva.png" group-title="ENTRETENIMENTO",VIVA
-http://rec2.distv.net:80/daniele/12345/207
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
-http://rec2.distv.net:80/daniele/12345/208
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://distv.net/icons/woohoo.png" group-title="ENTRETENIMENTO",WOOHOO
-http://rec2.distv.net:80/daniele/12345/243
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
-http://rec2.distv.net:80/daniele/12345/244
-#EXTINF:-1 tvg-id="" tvg-name="CARIOCÃO" tvg-logo="" group-title="CANAIS LOCAIS",CARIOCÃO
-http://rec2.distv.net:80/daniele/12345/4
-
-###Adulto###
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Tits
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gay
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
-http://cdn.adultiptv.net/asian.m3u8
-
