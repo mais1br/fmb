@@ -24,11 +24,13 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1, TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1, Record News
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 #EXTINF:-1, CNN Brasil
 http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Rede Minas 
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1, Futura
+http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Rede Aparecida
 http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Rede Vida
@@ -133,6 +135,8 @@ https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:-1, Rede Super
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1, TV Gazeta MA
+http://stmv4.srvstm.com:1935/wagner1168/wagner1168/playlist.m3u8
 #EXTINF:-1, TV U
 https://5e36c064a2f6a.streamlock.net:1936/8616/8616/playlist.m3u8
 #EXTINF:-1, TV Aberta SP
