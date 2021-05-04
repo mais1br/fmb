@@ -12,21 +12,19 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 #EXTINF:-1, Rede TV!
 http://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 #EXTINF:-1, Cultura
-http://evpp.mm.uol.com.br:1935/cultura1/cultura_720.sdp/playlist.m3u8
+http://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_9_ryMf_b3j6q2CVgtR95s)/dm/3/x7wur7g/s/live-2.m3u8
 #EXTINF:-1, Gazeta
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1, Loading TV
 https://centurylink.gcp.br.cdn.booyah.live/hls/151073/master_34850987.m3u8
 #EXTINF:-1, CNT
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
-#EXTINF:-1, Rede Brasil
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8
+#EXTINF:-1, RBTV
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1, TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1, Record News
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
-#EXTINF:-1, CNN Brasil
-http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Rede Minas 
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:-1, Futura
@@ -38,7 +36,7 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1, Rede Familia
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:-1, TV Diario
-http://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZduqtrw2xOK-6LklgPKCtII)/dm/3/x7txn7q/s/live-2.m3u8
+http://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZThCKkjvAS0lWtrVwUYayr8)/dm/3/x7txn7q/s/live-2.m3u8
 #EXTINF:-1, TV União (Rede União)
 https://stmv1.srvif.com/admin/admin/playlist.m3u8
 #EXTINF:-1, Tv Uniao (Natal)
@@ -46,11 +44,9 @@ https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/playlist.m3u8
 #EXTINF:-1, Tv Uniao (DF)
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1, Central TV
-http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 #EXTINF:-1, TV DO POVO (Rede Meio Norte)
 https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1, Rede TVC Brasil
-https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
 #EXTINF:-1, Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1, KURIAKOS KIDS
@@ -65,34 +61,24 @@ https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1, TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1, AGRO+
-http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
 #EXTINF:-1, Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1, Canal Rual
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1, Canal do Boi
 http://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/tracks-v1a1/mono.m3u8
-#EXTINF:-1, AgroBrasil 
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1, Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1, TV Liberdade
-http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
-#EXTINF:-1, TV Metropolitana
-https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w936575810.m3u8
+#EXTINF:-1, Anime TV 2
+https://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
 #EXTINF:-1, TV COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:-1, Top TV
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 #EXTINF:-1, Kiss TV
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
-#EXTINF:-1, TV da Cidade SP
-https://cast.cdnseguro.com:19360/8012/8012.m3u8
 #EXTINF:-1, 98 LIVE
 http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8
-#EXTINF:-1, Latina SAT
-https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 #EXTINF:-1, TV SOL
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 #EXTINF:-1, TV MAX
@@ -103,34 +89,18 @@ http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 #EXTINF:-1, Cine Trianon
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist-480p.m3u8
-#EXTINF:-1, Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1, Retro Plus 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1, TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1, TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 #EXTINF:-1, TV Galega
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1, TV Santa Cecilia
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1, TV Manchete
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF:-1, TV Tupi
-https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
-#EXTINF:-1, TV Evangelizar
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:-1, TV Diário do Sertão
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1, Canal 10 Foz do Iguaçu
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
 #EXTINF:-1, AWC CHANNEL
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
-#EXTINF:-1, TV Pantanal MS
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:-1, TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1, Rede Super
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:-1, TV Gazeta MA
 http://stmv4.srvstm.com:1935/wagner1168/wagner1168/playlist.m3u8
 #EXTINF:-1, TV U
@@ -139,26 +109,6 @@ https://5e36c064a2f6a.streamlock.net:1936/8616/8616/playlist.m3u8
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:-1, TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1, TV Camara 2
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1, Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1, TV Século 21
-https://dd8umsy8yf96u.cloudfront.net/live/rs21.m3u8
-#EXTINF:-1, Canal 29
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
-#EXTINF:-1, Via Morena
-https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
-#EXTINF:-1, TV Carioca
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
-#EXTINF:-1, MIX
-https://srv5.zcast.com.br/canalmix/canalmix/playlist.m3u8
-#EXTINF:-1, RBC TV
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-#EXTINF:-1, TEEACH TV
-https://srv1.zcast.com.br/talitacristina9102/talitacristina9102/chunklist_w1637668652.m3u8
-#EXTINF:-1, TV Novo Tempo
-http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
 #EXTINF:-1, Multishow
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
 #EXTINF:-1, Disney XD
