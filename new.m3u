@@ -124,22 +124,10 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1, Motor TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, Матч ТВ
-https://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1, Матч! Игра
-https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Футбол 1
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1, Футбол 2
 https://95-213-224-183.livesports24.online/fooootball2.m3u8
-#EXTINF:-1, ESPN
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
-#EXTINF:-1, ESPN 2
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
-#EXTINF:-1, ESPN Extra
-https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
-#EXTINF:-1, ESPN Brasil
-https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1, TNT Sports 1
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1, TNT Sports 2
@@ -164,31 +152,31 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere Clubes
-http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 2
-http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 3
-http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 4
-http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 5
-http://50.7.34.155:2200/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://50.7.34.155:2200/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 6
-http://50.7.34.155:2200/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://50.7.34.155:2200/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 7
-http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 8
-http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",Conmebol TV
-http://50.7.34.155:2200/BR/Conmebol_TV_04_HD_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://50.7.34.155:2200/BR/Conmebol_TV_04_HD_-br/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/71sYepu.png" group-title="Esportes",DAZN
 http://50.7.34.155:2200/BR/DAZN-HD_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
@@ -199,16 +187,7 @@ http://50.7.34.155:2200/BR/DAZN-HD2_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIA
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/71sYepu.png" group-title="Esportes",DAZN 3
 http://50.7.34.155:2200/BR/DAZN-HD3_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes",TNT Sports
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes",TNT Sports HD
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="FISH TV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",Fish TV
-http://50.7.34.155:2200/BR/fishtvhd-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="FISH TV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",Fish TV HD
 http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
@@ -226,17 +205,11 @@ http://50.7.34.155:2200/BR/espnextra-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIA
 #EXTINF:-1 tvg-id="WOOHOO" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
 http://50.7.34.155:2200/BR/Woohoo_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo HD
-http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",Off
 http://50.7.34.155:2200/BR/OFF_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
 http://50.7.34.155:2200/BR/Band_Sports_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports HD
-http://origin-02.nxplay.com.br/band_spor_9913/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
 http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
@@ -264,12 +237,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
 
 ################################################################################# Infantil
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/me7Ae0Q.png" group-title="Infantil",Retrô Cartoon
-http://stmv1.srvstm.com:1935/cartoonr2/cartoonr2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KlbMTBD.png" group-title="Infantil",Gospel Cartoon
-http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZhTxu0F.png" group-title="Infantil",Play Kids
 http://50.7.34.155:2200/BR/PlayKids_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -277,9 +244,6 @@ http://50.7.34.155:2200/BR/PlayKids_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIA
 
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-logo="http://i.imgur.com/WCFVJCx.png" group-title="Infantil",Zoomoo
 http://50.7.34.155:2200/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-logo="http://i.imgur.com/WCFVJCx.png" group-title="Infantil",Zoomoo HD
-http://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="NATGEO KIDS" tvg-logo="http://i.imgur.com/wlQ5V8Z.png" group-title="Infantil",Nat Geo Kids
 http://50.7.34.155:2200/BR/NatGeoKidsHD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
@@ -302,14 +266,8 @@ http://50.7.34.155:2200/BR/Gloob_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAI
 #EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
 http://50.7.34.155:2200/BR/Nickelodeon_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon HD
-http://origin-02.nxplay.com.br/NICK_BR_HD_p983941/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
 http://50.7.34.155:2200/BR/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr. HD
-http://origin-02.nxplay.com.br/NICK_JR_00999_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
 http://50.7.34.155:2200/BR/Cartoon_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
@@ -376,14 +334,8 @@ http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIOR
 #EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Séries",A&E
 http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Séries",A&E HD
-http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_3.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="FilmArts" tvg-logo="http://i.imgur.com/VQE6lpi.png" group-title="Filmes e Séries",Film&Arts
 http://50.7.34.155:2200/BR/Film_Arts_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="FilmArts" tvg-logo="http://i.imgur.com/VQE6lpi.png" group-title="Filmes e Séries",Film&Arts HD
-http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN
 http://50.7.34.155:2200/BR/axnhd-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
@@ -391,14 +343,8 @@ http://50.7.34.155:2200/BR/axnhd-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries",AMC
 http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries",AMC HD
-http://origin-02.nxplay.com.br/AMC_BRASIL_15581/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="http://i.imgur.com/pjtRpMJ.png" group-title="Filmes e Séries",Star Channel
 http://50.7.34.155:2200/BR/Fox_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="http://i.imgur.com/pjtRpMJ.png" group-title="Filmes e Séries",Star Channel HD
-http://170.82.200.38:8080/fox/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="STAR HITS 1" tvg-logo="http://i.imgur.com/ie6taEZ.png" group-title="Filmes e Séries",Star Hits 1
 http://50.7.34.155:2200/BR/Fox_Premium_1_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
@@ -418,14 +364,8 @@ http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAI
 #EXTINF:-1 tvg-id="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS
 http://50.7.34.155:2200/BR/TBS_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS HD
-http://origin-02.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://i.imgur.com/OAm1Jy6.png" group-title="Filmes e Séries",Comedy Central
 http://50.7.34.155:2200/BR/Comedy_Central_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="http://i.imgur.com/OAm1Jy6.png" group-title="Filmes e Séries",Comedy Central HD
-http://origin-02.nxplay.com.br/comed_central-tk/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="TCM" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Séries",TCM
 http://50.7.34.155:2200/BR/tcm-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
@@ -451,47 +391,27 @@ http://50.7.34.155:2200/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORT
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
 http://50.7.34.155:2200/BR/Paramount_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount HD
-http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner
 http://50.7.34.155:2200/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner HD
-http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8?PEDROJUNIORTUTORIAIS
-
 ################################################################################# Notícias
 
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News 
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News
-http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_655/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News HD
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",Band News
 http://50.7.34.155:2200/BR/Band_News_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",Band News HD
-http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil
 http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="http://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil HD
-http://origin-02.nxplay.com.br/CNN_BR_OK_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 ################################################################################# Documentários
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1
 http://50.7.34.155:2200/BR/Arte_1_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1 HD
-http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="TRU TV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Documentários",TruTV
 
@@ -546,10 +466,6 @@ http://50.7.34.155:2200/BR/Discovery_World_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNI
 #EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="Documentários",Discovery Theater
 http://50.7.34.155:2200/BR/Discovery_Theater_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentários",Discovery Civilization
-
-#EXTINF:-1 tvg-id="DISCOVERY SHOWCASE" tvg-logo="http://i.imgur.com/VT4A3hc.png" group-title="Documentários",Discovery Showcase
-
 ################################################################################# Canais Variedade
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/I8c1wzx.png" group-title="Variedade e Músicas",Classic Hits
@@ -579,8 +495,6 @@ http://origin-02.nxplay.com.br/SMITHSONIAN_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORT
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKXnETl.jpg" group-title="Variedade e Músicas",Yeeah!
 http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="CHEF TV" tvg-logo="http://i.imgur.com/saCbNDR.png" group-title="Variedade e Músicas",Chef TV
-
 #EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedade e Músicas",Food Network
 http://50.7.34.155:2200/BR/Food_Network_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -605,19 +519,11 @@ http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTO
 #EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV
 http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV HD
-http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="http://i.imgur.com/KagpnyD.png" group-title="Variedade e Músicas",MTV Live
 http://50.7.34.155:2200/BR/MTV_LIVE_HD_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="http://i.imgur.com/KagpnyD.png" group-title="Variedade e Músicas",MTV Live HD
-http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="VH1" tvg-logo="http://i.imgur.com/M5FodWF.png" group-title="Variedade e Músicas",VH1
 http://50.7.34.155:2200/BR/VH1_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="VH1 MEGA HITS" tvg-logo="http://i.imgur.com/UdgsfWl.png" group-title="Variedade e Músicas",VH1 Mega Hits
 
 #EXTINF:-1 tvg-id="PLAY TV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Variedade e Músicas",Play TV
 http://origin-02.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
@@ -625,14 +531,8 @@ http://origin-02.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORT
 #EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedade e Músicas",Music Box Brazil
 http://50.7.34.155:2200/BR/Music_Box_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedade e Músicas",Music Box Brazil HD
-http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Variedade e Músicas",Prime Box Brazil
 http://50.7.34.155:2200/BR/Prime_Box_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Variedade e Músicas",Prime Box Brazil HD
-http://origin-02.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 
 ### Pluto TV ###
