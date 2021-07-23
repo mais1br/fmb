@@ -79,10 +79,16 @@ https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
 #EXTINF:-1, 98 LIVE
 http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8
+#EXTINF:-1, TV Tokyo BR
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 #EXTINF:-1, TV SOL
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 #EXTINF:-1, TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1, TV CARIOCA.NET
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1, Bons Tempos
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1, Classique TV
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1, Classique TV 2
