@@ -32,11 +32,9 @@ http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Rede Aparecida
 http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 #EXTINF:-1, Rede Familia
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
-#EXTINF:-1, TV Diario
-
 #EXTINF:-1, TV União (Rede União)
 https://stmv1.srvif.com/admin/admin/playlist.m3u8
 #EXTINF:-1, Tv Uniao (Natal)
@@ -45,8 +43,6 @@ https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/playlist.m3u8
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1, Central TV
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
-#EXTINF:-1, TV DO POVO (Rede Meio Norte)
-
 #EXTINF:-1, Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1, KURIAKOS KIDS
@@ -66,7 +62,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
 #EXTINF:-1, Agro Brasil
 http://origin-02.nxplay.com.br/AGROBRASIL_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Canal Rual
-
+https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/chunklist_w1781319839_b1685000_sleng.m3u8
 #EXTINF:-1, Agro Canal
 http://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Anime TV
