@@ -170,6 +170,9 @@ http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v1a1/mono.m3u8?PEDROJUNIO
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner HD
 http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon HD
+http://origin-02.nxplay.com.br/NICK_BR_HD_p983941/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
 ################################################################################# Notícias
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
