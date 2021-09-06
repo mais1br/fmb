@@ -4,33 +4,29 @@
 #EXTINF:-1, Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1, SBT
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 #EXTINF:-1, Record
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1, Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 #EXTINF:-1, Rede TV!
-http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 #EXTINF:-1, Cultura
 http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Gazeta
-http://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v2a1/mono.m3u8
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1, CNT
 http://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8
 #EXTINF:-1, RBTV
-http://video01.logicahost.com.br:1935/redebrasil/redebrasil/playlist.m3u8
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1, TV Brasil
-http://origin-02.nxplay.com.br/TV_BRASIL_NX/tracks-v1a1/mono.m3u8
-#EXTINF:-1, TV Brasil 2
 http://origin-02.nxplay.com.br/TV_BRASIL_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Record News
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 #EXTINF:-1, Rede Minas 
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1, Futura
-http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Rede Aparecida
-http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1, Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 #EXTINF:-1, Rede Familia
@@ -64,9 +60,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
 #EXTINF:-1, Agro Brasil
 http://origin-02.nxplay.com.br/AGROBRASIL_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Canal Rual
-https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/chunklist_w1781319839_b1685000_sleng.m3u8
-#EXTINF:-1, Agro Canal
-http://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/tracks-v1a1/mono.m3u8
+https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1, Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1, Anime TV 2
@@ -74,15 +68,11 @@ https://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
 #EXTINF:-1, TV COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:-1, Top TV
-https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
-#EXTINF:-1, Kiss TV
-https://cast.cdnseguro.com:19360/8094/8094.m3u8
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTINF:-1, 98 LIVE
 http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8
 #EXTINF:-1, TV Tokyo BR
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
-#EXTINF:-1, TV SOL
-http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 #EXTINF:-1, TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 #EXTINF:-1, TV CARIOCA.NET
@@ -93,8 +83,6 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 http://stmv2.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1, Classique TV 2
 https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
-#EXTINF:-1, Cine Trianon
-https://srv2.zcast.com.br/cleto2085/cleto2085/playlist-480p.m3u8
 #EXTINF:-1, TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1, TV Galega
@@ -113,15 +101,10 @@ http://stmv4.srvstm.com:1935/wagner1168/wagner1168/playlist.m3u8
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:-1, TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-################################################################################ Esportes
-
-#EXTINF:-1, MMA TV 1
-https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, MMA TV 2
-https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, MMA TV 3
-https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1, TV Destak
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
 #EXTINF:-1, MotorSport TV
 https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Sky 1 Racing
@@ -146,86 +129,14 @@ http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1, TNT Sports 5
 http://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1, SPORT TV 1 PT
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1, SPORT TV 2 PT
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1, SPORT TV 3 PT
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1, SPORT TV 4 PT
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1, SPORT TV 5 PT
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1, Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-################################################################################# Filmes e Series
-
 #EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Séries",A&E HD
-http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_3.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount HD
-http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_3.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner HD
-http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon HD
-http://origin-02.nxplay.com.br/NICK_BR_HD_p983941/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-################################################################################# Notícias
-
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News HD
-http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",Band News HD
-http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-################################################################################# Documentários
-
+http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8
 #EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1 HD
-http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8?PEDROJUNIORTUTORIAIS
-
-################################################################################# Canais Variedade
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/I8c1wzx.png" group-title="Variedade e Músicas",Classic Hits
-http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/tu7fQmk.png" group-title="Variedade e Músicas",SCH
-http://origin-02.nxplay.com.br/SCH/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/f0e271z.png" group-title="Variedade e Músicas",Cult
-http://origin-02.nxplay.com.br/Cult/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NsT7bZs.png" group-title="Variedade e Músicas",Mega
-http://origin-02.nxplay.com.br/MEGA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aFqRvVj.png" group-title="Variedade e Músicas",BRA
-http://origin-02.nxplay.com.br/BRAmusic/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/PvgbKOp.png" group-title="Variedade e Músicas",Hitts
-http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/crTVjrQ.png" group-title="Variedade e Músicas",América Latino
-http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV HD
-http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="http://i.imgur.com/KagpnyD.png" group-title="Variedade e Músicas",MTV Live HD
-http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Variedade e Músicas",Play TV
-http://origin-02.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedade e Músicas",Music Box Brazil HD
-http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Variedade e Músicas",Prime Box Brazil HD
-http://origin-02.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8
 
 ### Pluto TV ###
 #EXTINF:-1 group-title="BRAZIL PLUTO" tvg-id="5ff609de50ab210008025c1b" tvg-name="Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png",Tokusato
