@@ -4,7 +4,7 @@
 #EXTINF:-1, Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1, SBT
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+https://cdn1.streameeva.com/redemassa/tviguacu/index.m3u8
 #EXTINF:-1, Record
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1, Band
@@ -21,8 +21,14 @@ http://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:-1, TV Brasil
 http://origin-02.nxplay.com.br/TV_BRASIL_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TV Escola
+https://105.live.ch.cabo.tv.br/dvttn/105/720x480_1500.m3u8
+#EXTINF:-1, Loading
+https://origin-02.nxplay.com.br/IDEAL_TV_HD_01_/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Record News
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+#EXTINF:-1, Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1, Rede Minas 
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:-1, Rede Aparecida
@@ -101,6 +107,8 @@ http://stmv4.srvstm.com:1935/wagner1168/wagner1168/playlist.m3u8
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:-1, TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1, TV Senado
+https://106.live.ch.cabo.tv.br/dvttn/106/720x480_1500.m3u8
 #EXTINF:-1, Rede Super
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:-1, TV Destak
