@@ -1,21 +1,5 @@
 #EXTM3U
 #Japan
-#EXTINF:-1,NHK BS1
-http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8 
-#EXTINF:-1,NHK BSP
-http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8 
-#EXTINF:-1,BS Nippon TV
-http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8 
-#EXTINF:-1,BS Asahi
-http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8 
-#EXTINF:-1,BS-TBS
-http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8 
-#EXTINF:-1,BS TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8 
-#EXTINF:-1,BS Fuji TV
-http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8 
-#EXTINF:-1,BS 12
-http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8 
 #EXTINF:-1,Star 1
 http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8 
 #EXTINF:-1,Star 2
@@ -30,38 +14,92 @@ http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8 
 #EXTINF:-1,Animax Japan
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8 
-#EXTINF:-1,NHK E
-http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8 
-#EXTINF:-1,NHK G
-http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8 
+#EXTINF:-1,BS 12
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8 
+#EXTINF:-1,BS Nippon TV
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8 
+#EXTINF:-1,BS Asahi
+http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8 
+#EXTINF:-1,BS-TBS
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8 
+#EXTINF:-1,BS TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8 
+#EXTINF:-1,BS Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8 
 #EXTINF:-1,Nippon TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8 
-#EXTINF:-1,Nippon TV (Op)
-https://ntv3.mov3.co/hls/ntv.m3u8
 #EXTINF:-1,TV Asahi
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8 
 #EXTINF:-1,TBS
 http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8 
-#EXTINF:-1,TBS (Op)
-https://tbs2.mov3.co/hls/tbs.m3u8
 #EXTINF:-1,TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8 
 #EXTINF:-1,Fuji TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8 
-#EXTINF:-1,Fuji TV (Op)
-https://fujitv3.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1,Tokyo MX1
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8 
+#EXTINF:-1,NHK E
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8 
+#EXTINF:-1,NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8 
+#EXTINF:-1,NHK BS1
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8 
+#EXTINF:-1,NHK BSP
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8 
+#EXTINF:-1,NHK World
 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1,	Shop Channel
+http://redlabmcdn.s.llnwi.net/nv02/cs01hd/index.m3u8 
+#EXTINF:-1,J Sports 4
+http://redlabmcdn.s.llnwi.net/nv02/cs02hd/index.m3u8 
+#EXTINF:-1,
+http://redlabmcdn.s.llnwi.net/nv02/cs03hd/index.m3u8 
+#EXTINF:-1,Kids Station
+http://redlabmcdn.s.llnwi.net/nv02/cs04hd/index.m3u8 
+#EXTINF:-1,Channel Neco
+http://redlabmcdn.s.llnwi.net/nv02/cs05hd/index.m3u8 
+#EXTINF:-1,Discovery
+http://redlabmcdn.s.llnwi.net/nv02/cs06hd/index.m3u8 
+#EXTINF:-1,WOWOW
+http://redlabmcdn.s.llnwi.net/nv02/cs07hd/index.m3u8 
+#EXTINF:-1, NTV News 24
+https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
+
 #Korea
 #EXTINF:-1,EBS 1
 http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,EBS 2
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS Kids
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS e
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS Plus 1
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS Plus 2
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,KBS Drama
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+#EXTINF:-1,KBS Joy
+http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+#EXTINF:-1,KBS Kids
+http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+#EXTINF:-1,KBS Life
+http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+#EXTINF:-1,KBS Story
+http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+#EXTINF:-1,KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1,MBC Ulsan
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
 #EXTINF:-1,MBC Jeonju
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1,MBC Jeju
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1,MBC Busan
+http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1,MBC Daegu
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1,SBS JIBS 
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1,SBS KNN 
@@ -72,28 +110,22 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1,SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1,Channel A
+http://mytv.dothome.co.kr/ch/catv/212.php
+#EXTINF:-1,MBN
+http://mytv.dothome.co.kr/ch/catv/54.php
+#EXTINF:-1, TV Chosun
+http://mytv.dothome.co.kr/ch/catv/53.php
+#EXTINF:-1,TBS
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1,KTV
 https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
-#EXTINF:-1,EBS Kids
-http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS e
-http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS Plus 1
-http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS Plus 2
-http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,Edaily TV 
-http://edaily.flive.skcdn.com/high/livestream/playlist.m3u8
 #EXTINF:-1,K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1,Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,Arirang Radio
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1,Baduk TV
 http://mytv.dothome.co.kr/ch/catv/251.php
-#EXTINF:-1,Channel A
-http://mytv.dothome.co.kr/ch/catv/212.php
 #EXTINF:-1,FTV
 http://mytv.dothome.co.kr/ch/catv/255.php
 #EXTINF:-1, Chunghwa TV
@@ -114,28 +146,8 @@ http://mytv.dothome.co.kr/ch/catv/283.php
 http://mytv.dothome.co.kr/ch/catv/249.php
 #EXTINF:-1,JTBC Golf
 http://mytv.dothome.co.kr/ch/catv/248.php
-#EXTINF:-1,KBS Drama
-http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-#EXTINF:-1,KBS Joy
-http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-#EXTINF:-1,KBS Kids
-http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-#EXTINF:-1,KBS Life
-http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-#EXTINF:-1,KBS Story
-http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-#EXTINF:-1,KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1,MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1,MBC Busan
-http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
-#EXTINF:-1,MBC Daegu
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1,MBC Drama
 http://mytv.dothome.co.kr/ch/catv/26.php
-#EXTINF:-1,MBC Jeju
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1,Mnet
 http://mytv.dothome.co.kr/ch/catv/224.php
 #EXTINF:-1,MTN
@@ -152,8 +164,6 @@ http://mytv.dothome.co.kr/ch/catv/254.php
 http://mytv.dothome.co.kr/ch/catv/263.php
 #EXTINF:-1,SBS F!L
 http://mytv.dothome.co.kr/ch/catv/284.php
-#EXTINF:-1,TBS
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1,tvN
 http://mytv.dothome.co.kr/ch/catv/221.php
 #EXTINF:-1,tvN DRAMA
@@ -166,13 +176,33 @@ http://mytv.dothome.co.kr/ch/catv/223.php
 http://mytv.dothome.co.kr/ch/catv/216.php
 #EXTINF:-1,Channel China
 http://mytv.dothome.co.kr/ch/catv/229.php
-#EXTINF:-1, TV Chosun
-http://mytv.dothome.co.kr/ch/catv/53.php
 #EXTINF:-1,YTN
 http://mytv.dothome.co.kr/ch/catv/121.php
 #EXTINF:-1,Yonhap News TV
 http://mytv.dothome.co.kr/ch/catv/131.php
 #EXTINF:-1,SBS Gof
 http://mytv.dothome.co.kr/ch/catv/36.php
+#EXTINF:-1,Channel A
+http://www.hwado.net/webtv/catv/52.php
 #EXTINF:-1,MBN
-http://mytv.dothome.co.kr/ch/catv/54.php
+http://www.hwado.net/webtv/catv/54.php
+#EXTINF:-1,SBS Plus
+http://www.hwado.net/webtv/catv/31.php
+#EXTINF:-1,SBS FunE
+http://www.hwado.net/webtv/catv/32.php
+#EXTINF:-1,SBS MTV
+http://www.hwado.net/webtv/catv/33.php
+#EXTINF:-1,SBS Biz
+http://www.hwado.net/webtv/catv/34.php
+#EXTINF:-1,SBS Sports
+http://www.hwado.net/webtv/catv/35.php
+#EXTINF:-1,SBS Golf
+http://www.hwado.net/webtv/catv/36.php
+#EXTINF:-1,The K-POP
+http://www.hwado.net/webtv/catv/37.php
+#EXTINF:-1,SBS
+http://www.hwado.net/webtv/catv/38.php
+#EXTINF:-1,SBS
+http://www.hwado.net/webtv/catv/39.php
+#EXTINF:-1,CJ ONSTYLE
+https://live-ch2.cjmall.net/cjosplus/_definst_/live2/chunklist.m3u8
