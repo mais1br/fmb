@@ -37,7 +37,9 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 #EXTINF:-1,Fuji TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8 
 #EXTINF:-1,Tokyo MX1
-http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8 
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+#EXTINF:-1,Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1,NHK E
 http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8 
 #EXTINF:-1,NHK G
@@ -78,6 +80,10 @@ http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,EBS Plus 2
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,KBS 1
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+#EXTINF:-1,KBS 2
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 #EXTINF:-1,KBS Drama
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 #EXTINF:-1,KBS Joy
@@ -88,6 +94,8 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=9
 http://ye23.vip/z7z8/2021/kbs2020.php?id=7
 #EXTINF:-1,KBS Story
 http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+#EXTINF:-1,KBS News D
+http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 #EXTINF:-1,KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1,MBC Ulsan
